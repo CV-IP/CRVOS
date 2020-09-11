@@ -1,0 +1,31 @@
+Evaluating sequences for the semi-supervised task...
+Global results saved in ../CRVOS_test/outputs/DAVIS16_val/global_results-val.csv
+Per-sequence results saved in ../CRVOS_test/outputs/DAVIS16_val/per-sequence_results-val.csv
+--------------------------- Global results for val ---------------------------
+ J&F-Mean    J-Mean  J-Recall  J-Decay    F-Mean  F-Recall   F-Decay
+ 0.816186  0.822459  0.939364  0.09998  0.809913   0.90335  0.088463
+
+---------- Per sequence results for val ----------
+            Sequence    J-Mean    F-Mean
+          blackswan1  0.948499  0.974686
+          bmx-trees1  0.514108  0.732158
+         breakdance1  0.563218  0.580785
+              camel1  0.828181  0.860200
+     car-roundabout1  0.967254  0.932171
+         car-shadow1  0.967158  0.995900
+               cows1  0.951543  0.971637
+        dance-twirl1  0.788846  0.779529
+                dog1  0.945547  0.954461
+      drift-chicane1  0.824652  0.861762
+     drift-straight1  0.838647  0.779764
+               goat1  0.881940  0.878778
+     horsejump-high1  0.810669  0.877849
+          kite-surf1  0.670306  0.521560
+              libby1  0.787627  0.908540
+     motocross-jump1  0.868572  0.792109
+ paragliding-launch1  0.638294  0.233070
+            parkour1  0.929057  0.953018
+      scooter-black1  0.886606  0.792390
+            soapbox1  0.838466  0.817892
+
+Total time:40.18000769615173
